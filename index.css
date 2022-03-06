@@ -20,7 +20,7 @@ body{
     font-weight: 50px;
     line-height: 1.5;
     font-size: 15px;
-    min-width: 10%;
+    max-width: 370px;
     border-radius: 15px 15px 0 0;
 }
 
@@ -32,7 +32,7 @@ body{
     font-weight: 50px;
     line-height: 1.5;
     font-size: 15px;
-    min-width: 10%;
+    max-width: 370px;
 }
 
 .top{
